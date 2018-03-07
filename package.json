@@ -1,7 +1,7 @@
 {
-  "name": "playground",
+  "name": "react-boilerplate",
   "version": "1.0.0",
-  "description": "react js playground",
+  "description": "Bare bones React.js skeleton for quick React setups.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
